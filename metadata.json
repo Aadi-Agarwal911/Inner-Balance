@@ -1,0 +1,8 @@
+{
+  "name": "Inner Balance",
+  "description": "Digital Mental Health and Psychological Support System for higher education students and campus counselors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
